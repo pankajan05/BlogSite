@@ -1,5 +1,5 @@
 <div class="container p-5">
-	
+
 	<h2 class="text-center"><?php echo $post['Title']; ?></h2>
 		<div class="text-right">Created by: <?php echo $post['Author']; ?><br>
 			<small >Posted on: <?php echo $post['Date_created']; ?></small>
