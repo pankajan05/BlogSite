@@ -16,8 +16,8 @@
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav">
 				<a class="nav-item nav-link" href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a>
-				<a class="nav-item nav-link" href="<?php echo base_url(); ?>">Posts</a>
-				<a class="nav-item nav-link" href="<?php echo base_url(); ?>/about">About</a
+				<a class="nav-item nav-link" href="<?php echo base_url(); ?>posts">Posts</a>
+				<a class="nav-item nav-link" href="<?php echo base_url(); ?>about">About</a
 			</div>
 		</div>
 	</nav>
